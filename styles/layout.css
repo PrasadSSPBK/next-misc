@@ -1,0 +1,21 @@
+.layout-header{
+    text-align: center;
+    background-color: chartreuse;
+    font-size: 30px;
+    padding: 20px;
+}
+.layout-footer{
+    text-align: center;
+    background-color: chartreuse;
+    font-size: 30px;
+    padding: 20px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+ justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: darkgoldenrod;
+    
+}
